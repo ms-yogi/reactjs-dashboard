@@ -1,0 +1,148 @@
+{
+  "pages" : [
+    {
+      "pageName" : "/store/",
+      "visitors" : 4890,
+      "uniquePageVisits" : 3985,
+      "bounceRate" : "81.56%",
+      "visitsData" : [
+        {
+          "id": "17681617392",
+          "totalVisits": 4890
+        },
+        {
+          "id": "17681617393",
+          "totalVisits": 4272
+        },
+        {
+          "id": "17681617394",
+          "totalVisits": 4282
+        },
+        {
+          "id": "17681617395",
+          "totalVisits": 2738
+        },
+        {
+          "id": "17681617396",
+          "totalVisits": 3748
+        },
+        {
+          "id": "17681617397",
+          "totalVisits": 3738
+        },
+        {
+          "id": "17681617398",
+          "totalVisits": 2827
+        }
+      ]
+    },
+    {
+      "pageName" : "/store/symbols-styleguides",
+      "visitors" : 3785,
+      "uniquePageVisits" : 3182,
+      "bounceRate" : "62.56%",
+      "visitsData" : [
+        {
+          "id": "17681617392",
+          "totalVisits": 2626
+        },
+        {
+          "id": "17681617393",
+          "totalVisits": 4625
+        },
+        {
+          "id": "17681617394",
+          "totalVisits": 2353
+        },
+        {
+          "id": "17681617395",
+          "totalVisits": 4546
+        },
+        {
+          "id": "17681617396",
+          "totalVisits": 6453
+        },
+        {
+          "id": "17681617397",
+          "totalVisits": 3535
+        },
+        {
+          "id": "17681617398",
+          "totalVisits": 4353
+        }
+      ]
+    },
+    {
+      "pageName" : "/store/dashboard-ui-kit",
+      "visitors" : 3785,
+      "uniquePageVisits" : 3182,
+      "bounceRate" : "58.76%",
+      "visitsData" : [
+        {
+          "id": "17681617392",
+          "totalVisits": 3425
+        },
+        {
+          "id": "17681617393",
+          "totalVisits": 2626
+        },
+        {
+          "id": "17681617394",
+          "totalVisits": 4535
+        },
+        {
+          "id": "17681617395",
+          "totalVisits": 2525
+        },
+        {
+          "id": "17681617396",
+          "totalVisits": 3636
+        },
+        {
+          "id": "17681617397",
+          "totalVisits": 6352
+        },
+        {
+          "id": "17681617398",
+          "totalVisits": 5235
+        }
+      ]
+    },
+    {
+      "pageName" : "/store/webflow-cards",
+      "visitors" : 2440,
+      "uniquePageVisits" : 1789,
+      "bounceRate" : "39.59%",
+      "visitsData" : [
+        {
+          "id": "17681617392",
+          "totalVisits": 1425
+        },
+        {
+          "id": "17681617393",
+          "totalVisits": 1252
+        },
+        {
+          "id": "17681617394",
+          "totalVisits": 3525
+        },
+        {
+          "id": "17681617395",
+          "totalVisits": 2535
+        },
+        {
+          "id": "17681617396",
+          "totalVisits": 2862
+        },
+        {
+          "id": "17681617397",
+          "totalVisits": 2889
+        },
+        {
+          "id": "17681617398",
+          "totalVisits": 1882
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+@import '../../styles/colors';
+
+.half-column {
+  width: 25%;
+}
+
+.progress {
+  height: 5px;
+  background-color: #e7f0fa;
+}
+
+.progress-bar {
+  background: $primary-color;
+}

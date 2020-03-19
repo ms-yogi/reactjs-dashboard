@@ -1,0 +1,36 @@
+@import './../../styles/colors';
+
+	.logoText {
+		width: 160px;
+	}
+	.navbar-custom {
+		padding: 0;
+		width: 100%;
+		height: 50px;
+		border-bottom: 1px solid $border-color;
+		background: $white-text;
+		.row {
+			width: 100%;
+			align-items: center;
+		}
+
+		.navbar-border {
+			width: 20rem;
+			border-right: 1px solid $border-color;
+			text-align: center;
+			padding: 7px 0;
+		}
+
+		p {
+			margin-bottom: 0;
+			text-transform: capitalize;
+			font-weight: 500;
+			font-size: 1.4rem;
+			color: $primary-text;
+		}
+
+		.col-lg-3 {
+			padding-right: 0;
+			padding-left: 0;
+		}
+	}

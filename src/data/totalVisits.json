@@ -1,0 +1,35 @@
+{
+  "title" : "Total Visits",
+  "data" : [
+    {
+      "id": "17681617392",
+      "totalVisits": 36277
+    },
+    {
+      "id": "17681617393",
+      "totalVisits": 32598
+    },
+    {
+      "id": "17681617394",
+      "totalVisits": 56132
+    },
+    {
+      "id": "17681617395",
+      "totalVisits": 43572
+    },
+    {
+      "id": "17681617396",
+      "totalVisits": 37282
+    },
+    {
+      "id": "17681617397",
+      "totalVisits": 45383
+    },
+    {
+      "id": "17681617398",
+      "totalVisits": 32453
+    }
+  ],
+  "totalCount" : "54,598",
+  "analysis" : "-11.9%"
+}

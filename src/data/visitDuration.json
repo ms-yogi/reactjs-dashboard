@@ -1,0 +1,39 @@
+{
+  "title" : "Visit Duration",
+  "data" : [
+    {
+      "id": "17681617392",
+      "visitDuration": 1.2
+    },
+    {
+      "id": "17681617393",
+      "visitDuration": 3.5
+    },
+    {
+      "id": "17681617394",
+      "visitDuration": 2
+    },
+    {
+      "id": "17681617394",
+      "visitDuration": 2.4
+    },
+    {
+      "id": "17681617395",
+      "visitDuration": 1.2
+    },
+    {
+      "id": "17681617396",
+      "visitDuration": 4.3
+    },
+    {
+      "id": "17681617397",
+      "visitDuration": 5.1
+    },
+    {
+      "id": "17681617398",
+      "visitDuration": 3.3
+    }
+  ],
+  "totalCount" : "1m 4s",
+  "analysis" : "+19.6%"
+}

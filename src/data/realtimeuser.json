@@ -1,0 +1,35 @@
+{
+  "title" : "Realtime Users",
+  "data" : [
+    {
+      "id": "17681617392",
+      "realtimeUsers": 26
+    },
+    {
+      "id": "17681617393",
+      "realtimeUsers": 39
+    },
+    {
+      "id": "17681617394",
+      "realtimeUsers": 56
+    },
+    {
+      "id": "17681617395",
+      "realtimeUsers": 43
+    },
+    {
+      "id": "17681617396",
+      "realtimeUsers": 46
+    },
+    {
+      "id": "17681617397",
+      "realtimeUsers": 52
+    },
+    {
+      "id": "17681617398",
+      "realtimeUsers": 56
+    }
+  ],
+  "totalCount" : 56,
+  "analysis" : "+9.8%"
+}

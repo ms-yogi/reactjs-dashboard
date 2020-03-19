@@ -1,0 +1,39 @@
+@import '../../styles/colors';
+
+.dashboard-wrapper {
+  background: #fbfbfd;
+  .dashboard-card {
+    padding: 2rem;
+    margin: 0 0 2rem;
+    background: $white-text;
+    border: 1px solid $border-color;
+    border-radius: 4px;
+    box-shadow: 0 4px 8px 0 rgba(12, 101, 217, 0.03);
+
+    .heading-container {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 10px 20px;
+      border-bottom: 1px solid $border-color;
+    }
+
+    .dashboard-card-heading {
+      font-weight: 500;
+      font-size: 1.4rem;
+      color: $primary-text;
+      display: inline;
+      margin-bottom: 0;
+    }
+
+    .form-group {
+      display: inline-block;
+      width: 10rem;
+      margin-bottom: 0;
+    }
+  }
+  
+  .small-card {
+    padding: 1rem;
+  }
+}

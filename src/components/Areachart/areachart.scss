@@ -1,0 +1,37 @@
+@import '../../styles/colors';
+
+
+.area-chart-container {
+  padding: 0.5rem;
+
+
+  .area-chart-heading {
+    text-transform: uppercase;
+    color: $muted-light-text;
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0;
+  }
+
+  .area-chart-total {
+    color: $primary-text;
+    font-size: 2.6rem;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 0;
+  }
+
+  .area-chart-analysis {
+    font-size: 1rem;
+    font-weight: 500;
+    text-align: center;
+  }
+}
+
+
+@media (min-width: 768px) {
+  .area-chart-container {
+    padding: 0;
+  }
+}

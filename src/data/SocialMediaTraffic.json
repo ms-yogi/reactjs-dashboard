@@ -1,0 +1,24 @@
+{
+  "trafficData" : [
+    {
+      "network" : "Instagram",
+      "visitors" : 3550,
+      "visitsRate" : "79"
+    },
+    {
+      "network" : "Facebook",
+      "visitors" : 2236,
+      "visitsRate" : "64"
+    },
+    {
+      "network" : "Twitter",
+      "visitors" : 1759,
+      "visitsRate" : "51"
+    },
+    {
+      "network" : "LinkedIn",
+      "visitors" : 62,
+      "visitsRate" : "23"
+    }
+  ]
+}
