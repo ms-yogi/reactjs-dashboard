@@ -1,7 +1,7 @@
 import React from 'react'
 import Sidebar from './components/Sidebar'
 import Navbar from './components/Navbar'
-import { BrowserRouter as Router, Switch, Route, Redirect } from 'react-router-dom'
+import { HashRouter as Router, Switch, Route, Redirect } from 'react-router-dom'
 import { routes } from './utils/routes'
 import userdata from './data/user.json'
 import './styles/common.scss'
@@ -11,7 +11,9 @@ const App = () => {
     <>
       <Router>
         <div className='wrapper'>
-          <Sidebar user={userdata.user}></Sidebar>
+          <div className="sidebar-container">
+            <Sidebar user={userdata.user}></Sidebar>
+          </div>
           <div className='section-container'>
             <Navbar />
             <div className="section-view">

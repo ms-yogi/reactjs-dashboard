@@ -1,10 +1,9 @@
 @import '../../styles/colors';
 
-.sidebar-container {
-		position: fixed;
+.sidebar {
 		overflow-x: hidden;
 		width: 20rem;
-		height: 100vh;
+		height: 100%;
 		border-right: 1px solid $border-color;
 		z-index: 100;
 		color: $primary-text;

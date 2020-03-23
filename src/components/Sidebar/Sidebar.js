@@ -40,7 +40,7 @@ const Sidebar = props => {
 
   return (
     <>
-      <div className="sidebar-container">
+      <div className="sidebar">
         <div className='navbar-border'>
           <a href='/'>
             <img
